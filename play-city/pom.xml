@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.xcrossworx</groupId>
-    <artifactId>de.play-city</artifactId>
+    <artifactId>play-city</artifactId>
     <packaging>war</packaging>
     <version>0.1</version>
-    <name>de.play-city</name>
+    <name>play-city</name>
 
     <build>
         <finalName>de.play-city</finalName>
